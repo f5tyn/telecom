@@ -1,0 +1,2 @@
+# telecom
+soft qb50 
